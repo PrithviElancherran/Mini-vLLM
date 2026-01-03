@@ -1,6 +1,6 @@
 # My Mini-vLLM
 
-A from-scratch custom implementation of vLLM's core inference engine, designed for learning and experimentation. This project provides self-contained implementations of paged attention, flash attention, and the complete LLM serving pipeline—no black-box dependencies.
+A lightweight custom implementation of vLLM's core inference engine built from scratch, designed for learning and experimentation. This project provides self-contained implementations of paged attention, flash attention, and the complete LLM serving pipeline—no black-box dependencies.
 
 Built on concepts from [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm), with custom Triton kernels for all attention mechanisms.
 
